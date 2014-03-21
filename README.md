@@ -11,7 +11,7 @@ Protoype is a python based, nothing related to the actual droid app. Python scri
 -- Vertical
 -- Diagonal-Left
 -- Diagonal-Right
--Runtime: Dictionary has 47,156 = w words according to oxford 20th edition. Boyer-Moore is O(nm) x 4 x w.
+-Runtime: Dictionary has 171,476 = w words according to oxford 20th edition. Boyer-Moore is O(nm) x 4 x w.
 
 
 
